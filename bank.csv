@@ -1,0 +1,4 @@
+example1;192.168.0.1;00:E0:4C:0B:DE:CE;4;2-00:E0:4C:1D:E4:A0,1-00:E0:4C:4C:56:5B
+test2;192.168.1.2;ff:ff:ff:ff:ff:ff;24
+test3;192.168.1.2;aa:aa:aa:aa:aa:aa;8
+abc;123;ee:ee:ee:ee:ee:ee;16;2-ff:ff:ff:ff:ff:ff
